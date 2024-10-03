@@ -134,9 +134,11 @@ a:hover {
     font-size: 1rem;
    }
     header {
-        img {display: none;}
         padding: 2rem;
         font-size: 1.5rem;
+    }
+    header img {
+        display: none;
     }
     #container {
         max-width: 1280px; /* keep */
